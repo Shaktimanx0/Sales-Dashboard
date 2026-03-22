@@ -14,7 +14,7 @@ This project is a Power BI dashboard analyzing Blinkit sales performance.
 - Data Visualization
 
 ## 🔹 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](blinkit-dashboard.png)
 
 ## 🔹 File
 - BLINKIT PROJECT.pbix
