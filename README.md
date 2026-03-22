@@ -1,23 +1,48 @@
 # Blinkit Sales Dashboard 📊
 
-This project is a Power BI dashboard analyzing Blinkit sales performance.
+An interactive Power BI dashboard designed to analyze sales performance, customer demand, and product trends in a quick-commerce business.
 
-## 🔹 Key Insights
-- Total Sales Analysis
-- Category-wise Performance
-- City-wise Demand Trends
-- Revenue Distribution
+---
 
-## 🔹 Tools Used
-- Power BI
-- Data Cleaning
-- Data Visualization
+## 🎯 Objective
+To identify key revenue drivers and uncover actionable insights for business decision-making.
 
-## 🔹 Dashboard Preview
+---
+
+## 📊 Key KPIs
+- Total Sales
+- Total Orders
+- Average Order Value (AOV)
+- Category-wise Revenue Contribution
+- City-wise Sales Distribution
+
+---
+
+## 🔍 Key Insights
+- Snacks & beverages dominate overall revenue
+- Tier-1 cities contribute the highest order volume
+- Significant variation exists across product categories
+- High demand for convenience-based products
+
+---
+
+## 🛠 Technical Implementation
+- Data Cleaning & Transformation
+- DAX Measures for KPI calculations
+- Interactive filters and slicers
+- Data modeling for efficient analysis
+
+---
+
+## 🖼 Dashboard Preview
 ![Dashboard](blinkit-dashboard.png)
 
-## 🔹 File
-- BLINKIT PROJECT.pbix
+---
 
-## 🔹 Author
+## 📁 Files
+- blinkit-sales-dashboard.pbix
+
+---
+
+## 👤 Author
 Rehan Shaikh
